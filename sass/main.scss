@@ -1,0 +1,8 @@
+//raplacing bootstrap colors. Before import bootstrap
+$primary: #806a41;
+$dark: #1a1a1a;
+$border-color: #eeeeee;
+
+// bootstrap
+@import '../node_modules/bootstrap/scss/bootstrap.scss';
+
